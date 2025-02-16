@@ -1,5 +1,3 @@
-# discord
-
 ## 🚀 Looking for FiveM Help or Scripts?
 If you're passionate about FiveM or need help with scripts, join our community!
 
