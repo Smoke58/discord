@@ -1,8 +1,9 @@
 # discord
 My community and shop Discord
 
-## Do you need help with FiveM? or are you interested in scripts?
+## 🚀 Looking for FiveM Help or Scripts?
+If you're passionate about FiveM or need help with scripts, join our community!
 
-- 🌴 Feel free to join my Discord
-- 💻 I have been involved in many projects such as Final Champs, Flower Crimelife, Fade Roleplay, Funlife and others
-- 📬 [Discord](https://discord.gg/XVxANZxqRH) 
+- 🌴 Join my Discord for exclusive FiveM content
+- 💻 Experience: Worked on projects like Final Champs, Flower Crimelife, Utopia City, Funlife, and more
+- 📬 See for yourself [Join Discord](https://discord.gg/XVxANZxqRH) 
